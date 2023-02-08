@@ -35,4 +35,4 @@ Projeto Biblioteca de Filmes Utilizando React.js concluido 🎯
 
 ## Acessando o site
 
-Para acessar o site do projeto Biblioteca de Filmes, por favor use este link : <a href="https://react-js-api-biblioteca-de-filmes-j6n4.vercel.app" target="_blank">Fetch GitHub API</a>
+Para acessar o site do projeto Biblioteca de Filmes, por favor use este link : <a href="https://react-js-api-biblioteca-de-filmes-j6n4.vercel.app" target="_blank">Biblioteca de Filmes</a>
